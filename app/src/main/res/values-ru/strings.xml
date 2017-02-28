@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Столицы и страны</string>
+    <string name="Well_done">Молодец!</string>
+    <string name="Bad_done">Неверно!</string>
+    <string name="Correct">Правильных ответов: %1$d</string>
+    <string name="Wrong">Ошибок: %1$d</string>
+
+    <string name="city_country"> - это столица:</string>
+    <string name="country_city">Как называется столица страны - </string>
+    <string name="buttonToMain">Угадай столицу</string>
+    <string name="buttonToMenu">Меню</string>
+    <string name="buttonTocities">Угадай страну</string>
+    <string name="headerMain">Увлекательная игра <b>"Столицы и страны"</b></string>
+    <string name="menu1">Угадай столицу</string>
+    <string name="menu2">Угадай страну</string>
+
+    <string-array name="QuestionBar" textAllcaps="true">
+        <item>Question1</item>
+        <item>Question2</item>
+        <item>Question3</item>
+        <item>Question4</item>
+    </string-array>
+</resources>
